@@ -1,2 +1,4 @@
 # -Analyze-A-B-test-results
--Descover data
+-Discover data with deep details.
+-hypothesis testing.
+-Develop Linear&Logistic regression model.
